@@ -1,4 +1,4 @@
-Excel Coffee Analysis Project
+Coffee-Orders Analysis
 
 An Excel-based project for analyzing four different kinds of coffee - Robusta, Arabica, Excelsa, Liberica
 
